@@ -1,0 +1,11 @@
+There are countless articles out there debating whether React or Angular is the better choice for web development. Do we need yet another one?
+
+The reason I wrote this article is because none of the articles published already—although they contain great insights—go in-depth enough for a practical front-end developer to decide which one may suit their needs.
+
+In this article, you will learn how Angular and React both aim to solve similar front-end problems though with very different philosophies, and whether choosing one or the other is merely a matter of personal preference. To compare them, we will build the same application twice, once with Angular and then again with React.
+
+Angular’s Untimely Announcement:
+Two years ago, I wrote an article about the React Ecosystem. Among other points, the article argued that Angular had become the victim of “death by pre-announcement.” Back then, the choice between Angular and almost anything else was an easy one for anyone who didn’t want their project to run on an obsolete framework. Angular 1 was obsolete, and Angular 2 was not even available in alpha version.
+On hindsight, the fears were more-or-less justified. Angular 2 changed dramatically and even went through major rewrite just before the final release.
+Two years later, we have Angular 4 with a promise of relative stability from here on.
+Now what?
